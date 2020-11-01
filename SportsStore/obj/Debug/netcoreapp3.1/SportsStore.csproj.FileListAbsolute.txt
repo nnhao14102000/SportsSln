@@ -74,3 +74,4 @@ E:\C#\aspmvc\project\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_
 E:\C#\aspmvc\project\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
 E:\C#\aspmvc\project\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
 E:\C#\aspmvc\project\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+E:\C#\aspmvc\project\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
