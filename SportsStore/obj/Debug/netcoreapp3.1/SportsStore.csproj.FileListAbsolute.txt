@@ -102,3 +102,9 @@ E:\C#\aspmvc\project\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclarat
 E:\C#\aspmvc\project\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
 E:\C#\aspmvc\project\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
 E:\C#\aspmvc\project\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+E:\C#\aspmvc\project\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\C#\aspmvc\project\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\C#\aspmvc\project\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\C#\aspmvc\project\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\C#\aspmvc\project\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\C#\aspmvc\project\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
