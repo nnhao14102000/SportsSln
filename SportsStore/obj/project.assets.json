@@ -5839,11 +5839,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\aspmvc\\project\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "E:\\C#\\aspmvc\\SportsSln\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "E:\\C#\\aspmvc\\project\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectPath": "E:\\C#\\aspmvc\\SportsSln\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\nnhao\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\aspmvc\\project\\SportsSln\\SportsStore\\obj\\",
+      "outputPath": "E:\\C#\\aspmvc\\SportsSln\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nnhao\\AppData\\Roaming\\NuGet\\NuGet.Config",

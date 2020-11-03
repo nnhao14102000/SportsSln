@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/AMee/Ktnbgu6otsTKHvbwGSimGN7A/qCPDfKvl0alq/NdRDLBzcP8KZQ7OY0BoDCY+lp6XuAMFRMQQZDQoR0g==",
+  "dgSpecHash": "zsNJLi8FS4YflGVjvNyeeuPVRX3nll/CPTWKgc+4LB6ycGkmTx8G2lIsAD4ghCwfv8wCPuLaPxJ35mu9jugZTA==",
   "success": true,
-  "projectFilePath": "E:\\C#\\aspmvc\\project\\SportsSln\\SportsStore\\SportsStore.csproj",
+  "projectFilePath": "E:\\C#\\aspmvc\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nnhao\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.9\\microsoft.aspnetcore.cryptography.internal.3.1.9.nupkg.sha512",
     "C:\\Users\\nnhao\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.9\\microsoft.aspnetcore.cryptography.keyderivation.3.1.9.nupkg.sha512",
