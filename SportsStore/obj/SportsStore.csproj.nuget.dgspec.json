@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\aspmvc\\SportsSln\\SportsStore\\SportsStore.csproj": {}
+    "E:\\c#\\aspmvc\\SportsSln\\SportsStore\\SportsStore.csproj": {}
   },
   "projects": {
-    "E:\\C#\\aspmvc\\SportsSln\\SportsStore\\SportsStore.csproj": {
+    "E:\\c#\\aspmvc\\SportsSln\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\aspmvc\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "E:\\c#\\aspmvc\\SportsSln\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "E:\\C#\\aspmvc\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectPath": "E:\\c#\\aspmvc\\SportsSln\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\nnhao\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\aspmvc\\SportsSln\\SportsStore\\obj\\",
+        "outputPath": "E:\\c#\\aspmvc\\SportsSln\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nnhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -51,6 +52,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.9, )"
+            },
+            "Telerik.UI.for.AspNet.Core": {
+              "target": "Package",
+              "version": "[2016.3.914, )"
             }
           },
           "imports": [
